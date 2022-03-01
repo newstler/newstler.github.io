@@ -9,3 +9,4 @@
 
 # Ignore Macos .DS_Store
 /.DS_Store
+*/.DS_Store
